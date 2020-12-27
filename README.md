@@ -1,1 +1,1 @@
-# IPS-correction
+Vu, Tuan Trinh Anh and Dinh, Thi Thai Mai and Nguyen, Quoc Tuan and Kumbesan, Sandrasegaran (2020) Indoor Positioning using BLE iBeacon, Smartphone Sensors and Distance-based Position Correction Algorithm. In: Intelligent Computing in Engineering. Springer, pp. 1007-1016. 
